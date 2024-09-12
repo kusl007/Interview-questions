@@ -1,0 +1,8 @@
+hoisting
+closure
+lexical scope
+eventloop
+pollyfills
+how js gets executed in js
+react optimization tools
+curry method
